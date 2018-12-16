@@ -16,6 +16,4 @@ artifacts:
   type: zip
   files:
     - '**/*'
-    - template.yml
-    - output.yml
   name: myname-$(date +%Y-%m-%d)
